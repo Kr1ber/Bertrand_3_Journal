@@ -1,0 +1,5 @@
+Begin:
+	Do
+		Turnleft 45 degrees
+		Draw Forward
+	
