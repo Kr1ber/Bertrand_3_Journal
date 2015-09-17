@@ -1,0 +1,13 @@
+The five different types of Java data types are:
+
+1) int-Is an integer,i.e, a "counting number", e.g., 42
+
+2) float-A floating point decimal, 1.4635897/ 3.14159
+
+3) short,long,double-These are other numbers w/ decimals.
+
+4) string-A LOT of characters, e.g, "h8e;430'"
+
+5) boolean-True or False
+
+6) char-Just ONE character, e.g., "1" "A" "P" "Q"(Just in case)
