@@ -1,0 +1,5 @@
+I have recieved credit for all my journals.
+
+It is important that you use the naming convention specified when naming files so that it is more accessible and easier to find by Mr.Davis. If he can't find it, it will not be graded.
+
+The command to copy in linux is cp. to copy all of a directory to the current directory put a *.
