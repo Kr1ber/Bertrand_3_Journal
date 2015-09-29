@@ -1,0 +1,5 @@
+A method is a small piece of code that can be run multiple times
+
+Methods are useful for when you need to perform the same task multiple times
+
+You can use methods to find primes by  having a number system that keeps going until all primes to a certain number are found
