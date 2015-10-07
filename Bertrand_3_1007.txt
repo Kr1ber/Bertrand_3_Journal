@@ -1,0 +1,9 @@
+What is a Java class?
+	A Java class is a template for creating objects in Java
+
+What might be a Java class for JavaFX?
+A Java class for JAVAFX is (javafx.stage) 
+
+
+What might be a method for a class?
+	A method is a procedure associated with an object class
