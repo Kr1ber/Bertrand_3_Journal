@@ -1,0 +1,7 @@
+A method is a piece of code that can be run multiple times
+
+I used two methods in my game one allowed the player to put in his name and I used one so the player could guess a number 
+
+A while loop is a control flow statement that allows the code to pe repeated based on a given (A repeating if statement)
+
+I used a while loop, a boolean, and a counter by making it to when you make a guess it will repeat the part of the code and will allow the player to guess again.
