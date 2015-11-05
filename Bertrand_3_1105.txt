@@ -1,0 +1,5 @@
+Strings are a piece of code that allows you to write/print a lot of characters.
+
+Some string methods are booleans and return code.
+
+We identify string methods by you must have a boolean method that allows you to use the string you have selected and return it in order to identify it.
