@@ -1,0 +1,5 @@
+I can track what challenges the player has solved by creating empty booleans that are true when the player finishes an action
+
+I can track Hp by making an int that starts at 100 and when the player takes damage it would subtract from the int
+
+I can track items by making string values that has an int to do an action when you pick up the item
