@@ -1,0 +1,5 @@
+The challenges the player will solve is how to get through his or her bad day from a series of challenges that they go through throughout the agme
+
+I will track if they have been solved by making it to if they choose the right path it is true and if it wrong then they will wither get sent back or lose 
+
+
