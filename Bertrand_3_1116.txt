@@ -1,0 +1,3 @@
+I will use methods in my game by putting the pieces of code into different methods 
+
+I would not pass values to them. 
