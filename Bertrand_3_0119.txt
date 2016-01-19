@@ -1,0 +1,7 @@
+The slick game I created is a game where you collect potions and have to get the antidote in time or else you lose.
+
+One of the challenges I solved was the collision on my walls but I have not solved how to fix my enemy in the game
+
+I did not because I could not decide what to do for my game or map so I spent that time experimenting on different ideas
+
+I was almost able to meet the deadline but I did not. I was not able to because I spent a lot of time fixing my map and I tried to figure out whether certain things should be in my game or not and I just wasn't fast enough
