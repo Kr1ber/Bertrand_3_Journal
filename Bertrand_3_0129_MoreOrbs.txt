@@ -1,0 +1,9 @@
+A class constructor is used to create a new class with variables that you set
+before you call or instantiate an instance of the class.
+
+For orbs, we should include a height, width, and assuming that it does damage, a 
+damage variable. And an image for the object.
+
+The orbs should have methods that do damage to the enemy when they interact
+with him/her. Also have methods that make them dissapear when they collide
+with the enemy.
