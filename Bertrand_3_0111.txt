@@ -1,0 +1,4 @@
+The slick game I will create is a game where you are a redneck who is trying to find the best gas for his pickup truc.
+
+The challenges I have faced is organization issues and making sure I typed things out correctly in my code
+
