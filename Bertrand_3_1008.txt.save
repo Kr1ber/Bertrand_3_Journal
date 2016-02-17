@@ -1,0 +1,9 @@
+My plans for my art project is to have a shape get repeated a certain amount of times and then for it put each shape in a different location throughout the canvas
+
+The methods I will use are 
+
+I could incorporate a for loop by making it so that it could produce the shape multiple times based on the number put in the for loop
+
+I would incorporate if, else if, and else by making it to where based on if the number is divisible by a certain number than it will make the shape do something different 
+ 
+The math I might use is 

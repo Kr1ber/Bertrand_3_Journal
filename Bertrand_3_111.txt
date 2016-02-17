@@ -1,4 +1,4 @@
-The slick game I will create is a game where you collect memes and then try to find the ultimate meme.
+The slick game I will create is a game where you collect stuff.
 
 The challenges I have faced and are facing with my game is time restraints.
 

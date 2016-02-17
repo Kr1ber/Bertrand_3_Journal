@@ -1,0 +1,4 @@
+To
+folder in my NetBeansProject folder, making sure it is a png.
+Then in my code I would tell it to draw the image, after declaring the
+image as Public picture = "/res/image.png"
