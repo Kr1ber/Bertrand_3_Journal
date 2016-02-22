@@ -1,0 +1,29 @@
+How can / will you make the orb move in the direction you are facing?
+
+In the orb key's code, it checks which direction the sprite is facing, then sets a boolean based on the sprite.
+In update, but outside the orb key, it moves the orb based on the boolean.
+
+
+        if (input.isKeyPressed(Input.KEY_F)) {
+            orb1.setX((int) player.x);
+            orb1.setY((int) player.y);
+            orb1.hitbox.setX(orb1.getX());
+            orb1.hitbox.setY(orb1.getY());
+            orb1.setIsvisible(!orb1.isIsvisible());
+            if (player.sprite == player.left) {
+                orbLeft = true;
+            } else if (player.sprite == player.right) {
+                orbRight = true;
+            }
+
+            if (orbLeft && orbRight) {
+                orb1.isvisible = false;
+                orbLeft = false;
+                orbRight = false;
+            }
+        }
+        if (orb1.isvisible && orbLeft) {
+            orb1.x -= 7;
+        } else if (orb1.isvisible && orbRight) {
+            orb1.x += 7;
+        }
