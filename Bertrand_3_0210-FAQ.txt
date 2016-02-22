@@ -1,0 +1,11 @@
+Make a list of ten problems (e.g., FAQS) you have faced when adding orbs to your game.
+
+1. Where could I get started on my own when I wanted to make the orb instead of relying on another source
+
+2. Why does the orb at first move with the player before you fix it to not do that
+
+3. How do I know what to type after looking at the errors
+
+4. Why does this do what it does
+
+5. I dont know what any of this means
