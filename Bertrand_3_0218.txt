@@ -1,0 +1,43 @@
+Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+    public Player() throws SlickException {
+        SpriteSheet runningSS = new SpriteSheet(
+                "res/ogrespritesheet.png", 64, 64, 0);
+        up = new Animation();
+        up.setAutoUpdate(true);
+        up.addFrame(runningSS.getSprite(0, 8), 330);
+        up.addFrame(runningSS.getSprite(1, 8), 330);
+        up.addFrame(runningSS.getSprite(2, 8), 330);
+        up.addFrame(runningSS.getSprite(3, 8), 330);
+        up.addFrame(runningSS.getSprite(4, 8), 330);
+        up.addFrame(runningSS.getSprite(5, 8), 330);
+        up.addFrame(runningSS.getSprite(6, 8), 330);
+        up.addFrame(runningSS.getSprite(7, 8), 330);
+        up.addFrame(runningSS.getSprite(8, 8), 330);
+
+This sets the animations for the player going up
+
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+It wouldn't be too useful because of autocomplete and because we're probably not going to use it for any other project
+
+What is an array?
+An array is a list of data
+
+How do you make an array? Give an example.
+the syntax is datatype[], like int[]
+
+What is an ArrayList?
+a list of objects
+
+How do you make an arraylist?
+public ArrayList<Orb> orblist = new ArrayList();
+
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
+What are three useful arraylist methods that you identified?
+clone(), remove(), replaceAll()
+
+What is the difference between an array and an arraylist?
+arrays store data, arrayLists store objects
+
+How could we make a health counter for an avatar?
+have an arraylist of different little chunks of health so when you lsoe health it hould remove from the arraylist and it would look like a sick healthbar
