@@ -1,2 +1,0 @@
-In order to make the orb move in the direction I am facing I will make it check which direction the sprite is facing, then set a boolean based on the that direction.
-
