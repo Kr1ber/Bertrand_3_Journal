@@ -1,0 +1,10 @@
+How was an array used in your Slick game?
+
+blocked was some sort of array that stored coordinates for tiles that were blocked
+An array stores a bunch of some data type, so blocked just used an array of booleans that said 'this tile is blocked' or
+'this tile is not blocked'
+
+What might be another use for an array in a different program?
+
+You could store the player's stats like strength, intellegence, etc. in an array of ints and just refer to each of them as
+some part of the array, or something like blocked but for something else like the location of secret switches.
