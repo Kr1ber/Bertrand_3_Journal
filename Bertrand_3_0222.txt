@@ -1,0 +1,4 @@
+Some of the questions I have just have to do with how to make certain things that I need in my game e.g. an enemy.
+
+I am not really prepared to polish my slick game.I have to actually learn how to make an enemy, which I have not done yet, and I am not really sure how to do it , but I also have to learn how to take damage from said enemy. I could either
+ask my friends about it, but I could attempt to google it.
