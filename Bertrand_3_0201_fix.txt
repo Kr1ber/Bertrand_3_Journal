@@ -1,0 +1,2 @@
+In order to clean up my code I make it legible I will go through my code and organize it in order to make it readible.
+
