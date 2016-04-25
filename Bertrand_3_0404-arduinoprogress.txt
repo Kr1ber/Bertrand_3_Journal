@@ -1,0 +1,9 @@
+What I have done so fat is I have made the arduino play a song when you run it.
+
+What I need to do is to make two more songs and add buttons and lights in order to play each of them at the press of a button and know which one is playing with the light.
+
+No I will not be able to turn it in on Friday
+
+Right now I have not made any significant code changes or anything I would count as code changes.
+
+I have not created any functions.
