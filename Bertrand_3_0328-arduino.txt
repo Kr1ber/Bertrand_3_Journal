@@ -1,0 +1,17 @@
+What differences and similarites have you noticed? Provide at least 3 and explain in complete sentences.
+c is older but it looks similar to java
+
+What code adaptations have you made? [Or will you make if none to date. Note: 'none' is not a valid answer]
+Right now I have not made any code adaptations and I am not quite sure of the ones I will make in the future
+
+What is required for a circuit?
+power, path, resistor
+
+How are programs compiled with Arduino?
+the simple IDE we have
+
+Describe the projects you have completed this/last week and what you have learned from them. Descriptions should be _at least_ one full paragraph in length.
+What I have completed so far is I made the arduino play a song and that is about all I have done. Mainly what I had been doing was trying to figure out the key that the note frequencies were in so that I could transfer notes from sheet music to the program. I did end up finding out what key it was and when I did I was able to make the song which was mainly just a test.
+
+Describe your project and the code adaptations you will have to make. [Note - 'none' is not a valid answer. For example, there is a 'Simon' game provided - using that code would earn a '0' because it is 0% your code.]
+My project is going to have three buttons with a light on top of each button so u can see what button was pressed. These buttons will cause one of the three songs you play depending on the button that you press.
