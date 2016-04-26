@@ -1,0 +1,43 @@
+Write a Java method to return the cubed value of some number.
+
+public int cube(int x){
+	int placeholder = x;
+	x = x * placeholder;
+	x = x * placeholder;
+	return x;
+}
+
+Write an Arduino function to return the cubed value of some number.
+
+int cube(int x){
+	int y = x;
+	int z = y * x;
+	int result = z * x;
+	return result;
+}
+
+Create the class, an object, and class constructor for class student
+
+class Student{
+	String name;
+	int grade;
+	boolean passing;
+	boolean work;
+	Student(int x, int y, String name){
+		if(this.work){
+			this.grade++;
+		}
+		if(this.grade >= 70){
+			this.passing = true;
+		}
+		
+	}
+}
+
+public Student student1;
+
+student1 = new Student(100, 100, "Rhys");
+
+Describe-if we were to continue with Arduino-what would you create?
+
+If we were to continue with the Arduino what I would do is I would continue the project I originally had planned but I would do more advanced sogs now that I know more about it, and since I did not get very far it would be as if it is still a new project.
