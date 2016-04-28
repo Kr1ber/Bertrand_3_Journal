@@ -1,0 +1,30 @@
+For what computational reason did you type elf64?
+elf64 is referring to the 64 bit operation system.
+
+Why did you use ld?
+ld is used to compile.
+
+Why did you not have to use chmod to make sample executable?
+chmod changes file permissions
+
+
+global _start
+        section .text
+_start:
+        mov     rax, 1
+        mov     rdi, 1
+        mov     rsi, message
+        mov     rdx, 19
+        syscall
+
+        mov     eax, 60
+        xor     rdi, rdi
+        syscall
+message:
+        db      "Kristopher Bertrand", 10
+
+
+What problem did you have to solve to get it to work?
+
+In order to get it to work I changed the mov rdx value to the amount of letters in my name
+.
